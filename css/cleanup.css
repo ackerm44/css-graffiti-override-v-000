@@ -15,10 +15,10 @@ body #wall .parent #tag-4 {
   display: none;
 }
 
-body #wall div.parent #tag-5.slick {
+body div.#wall div.parent div.#tag-5.slick {
   display: none;
 }
 
 body #wall div.parent div div.#tag-6 {
-  display: none; 
+  display: none;
 }
