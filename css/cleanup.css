@@ -12,5 +12,9 @@ body #wall #tag-3.slick, #tag-3.wicked {
 }
 
 body #wall .parent #tag-4 {
+  display: none;
+}
+
+body #wall .parent #tag-5.slick {
   display: none; 
 }
